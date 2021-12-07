@@ -1,0 +1,19 @@
+{
+  "name":"HaMqttConfigBuilder",
+  "description":"Help to generate config payloads for Home Assistant MQTT discovery",
+  "keywords":"mqtt,iot,homeassistant",
+  "authors": [
+    {
+      "name": "Patrick Lapointe",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/plapointe6/HaMqttConfigBuilder.git"
+  },
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
